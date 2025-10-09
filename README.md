@@ -32,10 +32,12 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
  
  
- ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
+ ## SKETCH<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ccfeb79-7404-421c-96ee-2aae8c07f5db" />
 
- ## OUTPUT:<img width="1028" height="749" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/4fbc97d8-01c2-4fbf-b9af-38c616b39ab1" />
+ 
+
+ ## OUTPUT:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa983dee-8b3f-45f1-bf05-3b71a2364525" />
+
 
 
  
