@@ -33,9 +33,10 @@
  
  
  ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c30320d-410e-4404-8b53-5aeab6fb0165" />
 
- ## OUTPUT
+ ## OUTPUT<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/baaa7085-d36c-431f-b247-fb98be3a533d" />
+
  
  
  ## RESULT
